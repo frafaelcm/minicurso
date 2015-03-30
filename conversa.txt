@@ -2,3 +2,6 @@ pessoa1 diz: oi
 pessoa2 diz: oi, td bem?
 pessoa1 diz: td bem, e vc?
 pessoa2 diz: td bem.
+pessoa1 diz: qual é o seu nome?
+pessoa2 diz: meu nome é isabela, e o seu?
+pessoa1 diz: meu nome é rafael
