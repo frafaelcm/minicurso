@@ -1,0 +1,2 @@
+pessoa1 diz: oi
+pessoa2diz: oi, td bem?
