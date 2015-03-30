@@ -1,2 +1,4 @@
 pessoa1 diz: oi
-pessoa2diz: oi, td bem?
+pessoa2 diz: oi, td bem?
+pessoa1 diz: td bem, e vc?
+pessoa2 diz: td bem.
